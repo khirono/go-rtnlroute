@@ -1,4 +1,4 @@
-github.com/khirono/go-nl v1.0.0 h1:GoaCkoohIo8WIP1toUGNbJ7TX9hNVSFeEXsday35EvE=
-github.com/khirono/go-nl v1.0.0/go.mod h1:PzYeSjD38fzV7mX5DuaCZvnwx2kD/o7XgHyzuJxoi7U=
-github.com/khirono/go-rtnllink v1.0.0 h1:PXk/7Tv/S7hV46cFE44WDUAv7ESGk8N448bvA/v8O5I=
-github.com/khirono/go-rtnllink v1.0.0/go.mod h1:nyOYtyXltMI1dEWrcyv1z0qSDEoIEKg9HL67MZMzr+Q=
+github.com/khirono/go-nl v1.0.4 h1:MKdgv6HiJyFvM5qb8r7Sy6LbcUmK4yB7542u6JM0sBE=
+github.com/khirono/go-nl v1.0.4/go.mod h1:PzYeSjD38fzV7mX5DuaCZvnwx2kD/o7XgHyzuJxoi7U=
+github.com/khirono/go-rtnllink v1.1.1 h1:VsJbbW2HbqIZ62qit5FsehxR0gnrfDp7GE9fSTqHUDY=
+github.com/khirono/go-rtnllink v1.1.1/go.mod h1:FqrOS6/iGjmK30oNB3snEtXXd0JRT9nJ/98/605IiO0=
